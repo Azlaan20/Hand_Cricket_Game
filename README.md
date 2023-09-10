@@ -1,7 +1,7 @@
 <h1 align="center">🏏 Hand Cricket Game 🤖</h1>
 
 <p align="center">
-  <img src="hand_cricket.png" alt="Hand Cricket Game" width="400">
+  <img src="https://github.com/Azlaan20/Hand_Cricket_Game/blob/master/1.gif" alt="Hand Cricket Game" width="400">
 </p>
 
 <p align="center">
